@@ -97,7 +97,7 @@ $ npm run dev
 
 
 
-Happy Coding!  :computer:  See you all! Bye  👋
+Happy Coding!  :computer:  See you all! Bye  👋 <br />
 **[Fidel Duran](https://fidelduran.com)** 
 
 <p align="center"><a href="https://fidelduran.com" target="_blank"><img width="150" src="https://fidelduran.com/images/logos/logo-yellow.svg"></a></p>
